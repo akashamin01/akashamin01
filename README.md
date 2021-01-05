@@ -2,9 +2,6 @@
 
 I'm Akash Jitendra Amin. I'm a full-time software engineer passionate about writing clean, beautiful and well-designed code. On my free time, I try to give back to open source by Contributing to open source projects and also I am an Avid Cyclist.
 
-<!--
-**akashamin01/akashamin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 A few fun facts about me :
 - 🔭 I’m currently working on the Backend of the [LeadCRM](https://intricare.net)
 - 🌱 I’m currently learning Docker & Kubernetes
@@ -14,4 +11,8 @@ A few fun facts about me :
 - 📫 How to reach me: on my [website contact form](https://akashamin01.github.io/MY-WEBSITE/)
 - 😄 Pronouns: He/him/his
 
+<!--
+**akashamin01/akashamin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+
