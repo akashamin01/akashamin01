@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Akash Jitendra Amin. I'm a full-time software engineer passionate about writing clean, beautiful and well-designed code. On my free time, I try to give back to open source by Contributing to open source projects and also I am an Avid Cyclist.
+I'm Akash Jitendra Amin. I'm a full-time software engineer passionate about writing clean, beautiful and well-designed code. On my free time, I Contribute to open source projects and also I am an Avid Cyclist.
 
 A few fun facts about me :
 - 🔭 I’m currently working on the Backend of the [LeadCRM](https://intricare.net)
