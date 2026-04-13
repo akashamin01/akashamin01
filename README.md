@@ -1,34 +1,10 @@
 ## Hi there 👋
 
-I'm Akash Amin — A Software Engineer building AI-powered products and scalable systems.
+Akash Amin — Software Engineer building AI-powered products 🤖 and scalable systems ⚙️  
+AI · Fullstack · Distributed Systems  
 
-I work across **AI, Fullstack, and Distributed Systems**, focused on shipping fast and solving real problems.
+LLMs (RAG, agents), React/Node, Java/Spring, Kafka, Kubernetes 🚀  
 
----
+Shipping fast ⚡, solving real problems, exploring startup opportunities  
 
-### 🚀 What I’m doing
-- Building **LLM applications** (RAG, agents, tool integrations)
-- Designing **scalable backend systems**
-- Creating clean, intuitive **frontend experiences**
-
----
-
-### 🧠 Tech
-Java · TypeScript · React · Node.js · Spring Boot · Kafka · Kubernetes  
-LLMs · RAG · LangChain · LangGraph · Pinecone · OpenAI · Claude · Gemini
-
----
-
-### 🤝 Open to
-AI products · startups · interesting collaborations
-
----
-
-### ⚡ Fun fact
-Cyclist 🚴 — good ideas come on long rides.
-
----
-
-### 📫 Reach me
-LinkedIn: https://www.linkedin.com/in/akashamin01  
-GitHub: https://github.com/akashamin01
+📫 linkedin.com/in/akashamin01
